@@ -1,0 +1,15 @@
+.bg-primary {
+    background-color: #0474DC !important;
+}
+
+.bg-secondary {
+    background-color: #C7E2FC !important;
+}
+
+.text-accent, .active {
+    color: #010C80 !important;
+}
+
+.inactive {
+    color: #A5BCD1 !important;
+}

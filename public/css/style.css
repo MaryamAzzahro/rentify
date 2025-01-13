@@ -1,0 +1,28 @@
+@import url('./fonts.css');
+@import url('./custom.css');
+
+.main{
+    height: 100vh;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.sidebar ul li a:hover {
+    color: #010C80 !important;
+}
+
+.sidebar .link-active{
+    color: #010C80;
+}
+
+.sidebar .nav-link {
+    display: flex;
+    align-items: center;
+    color: #A5BCD1;
+}
+
+.sidebar a#btn-logout {
+    margin-top: 5rem;
+    margin-left: -2rem;
+    color: #010C80;
+}
